@@ -1,7 +1,7 @@
 {
   "name": "is-not-even",
-  "version": "1.0.1",
-  "description": "Checks for a non odd number",
+  "version": "1.0.2",
+  "description": "Checks for a non even number",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
