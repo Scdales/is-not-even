@@ -11,7 +11,7 @@ Please consider following this project's author, [Sean](https://github.com/scdal
 Install with [npm](https://www.npmjs.com/):
 
 ```sh
-$ npm install --save is-not-odd
+$ npm install --save is-not-even
 ```
 
 ## Usage
@@ -19,13 +19,13 @@ $ npm install --save is-not-odd
 Works with strings or numbers.
 
 ```js
-const isNotOdd = require('is-not-odd');
+const isNotEven = require('is-not-even');
 
-console.log(isNotOdd('1')); //=> true
-console.log(isNotOdd('3')); //=> true
+console.log(isNotEven('1')); //=> true
+console.log(isNotEven('3')); //=> true
 
-console.log(isNotOdd(0)); //=> false
-console.log(isNotOdd(2)); //=> false
+console.log(isNotEven(0)); //=> false
+console.log(isNotEven(2)); //=> false
 ```
 
 ## About
