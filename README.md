@@ -21,11 +21,11 @@ Works with strings or numbers.
 ```js
 const isNotEven = require('is-not-even');
 
-console.log(isNotEven('0')); //=> true
-console.log(isNotEven('2')); //=> true
+console.log(isNotEven('1')); //=> true
+console.log(isNotEven('3')); //=> true
 
-console.log(isNotEven(1)); //=> false
-console.log(isNotEven(3)); //=> false
+console.log(isNotEven(0)); //=> false
+console.log(isNotEven(2)); //=> false
 ```
 
 ## About
