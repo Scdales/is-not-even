@@ -1,4 +1,4 @@
-# is-not-odd [![NPM version](https://img.shields.io/npm/v/is-not-odd.svg?style=flat)](https://www.npmjs.com/package/is-not-odd) [![NPM monthly downloads](https://img.shields.io/npm/dm/is-not-odd.svg?style=flat)](https://npmjs.org/package/is-not-odd) [![NPM total downloads](https://img.shields.io/npm/dt/is-not-odd.svg?style=flat)](https://npmjs.org/package/is-not-odd)
+# is-not-odd [![NPM version](https://img.shields.io/npm/v/is-not-even.svg?style=flat)](https://www.npmjs.com/package/is-not-even) [![NPM monthly downloads](https://img.shields.io/npm/dm/is-not-even.svg?style=flat)](https://npmjs.org/package/is-not-even) [![NPM total downloads](https://img.shields.io/npm/dt/is-not-even.svg?style=flat)](https://npmjs.org/package/is-not-even)
 
 > Returns false if the given number is even, and is an integer that does not exceed the JavaScript MAXIMUM_SAFE_INTEGER.
 
