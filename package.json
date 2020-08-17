@@ -1,0 +1,64 @@
+{
+  "name": "is-not-even",
+  "version": "1.0.0",
+  "description": "Checks for a non odd number",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Scdales/is-not-even.git"
+  },
+  "author": "Sean",
+  "contributors": [
+    "Sean (https://github.com/scdales)"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Scdales/is-not-even/issues"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "homepage": "https://github.com/Scdales/is-not-even#readme",
+  "dependencies": {
+    "is-number": "^7.0.0"
+  },
+  "devDependencies": {
+    "gulp-format-md": "^2.0.0",
+    "mocha": "^8.1.1"
+  },
+  "keywords": [
+    "array",
+    "count",
+    "even",
+    "filter",
+    "integer",
+    "is",
+    "math",
+    "numeric",
+    "odd",
+    "string"
+  ],
+  "verb": {
+    "toc": false,
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "related": {
+      "list": [
+        "exponential-moving-average",
+        "is-not-odd",
+        "sma"
+      ]
+    },
+    "lint": {
+      "reflinks": true
+    }
+  }
+}
